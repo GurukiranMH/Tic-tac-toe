@@ -1,0 +1,11 @@
+.square {
+  padding: 15px;
+  margin: 7px;
+  height: 3rem;
+  width: 3rem;
+  background-color: rgb(73, 61, 61);
+  cursor: pointer;
+  font-size: 40px;
+
+  color: #fff;
+}

@@ -1,0 +1,9 @@
+.squareboard {
+  height: 20rem;
+  width: 20rem;
+  background: gray;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}

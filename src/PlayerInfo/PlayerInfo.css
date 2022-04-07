@@ -1,0 +1,13 @@
+.reset-btn {
+  padding: 1rem 1.5rem;
+  background: black;
+  color: #fff;
+  margin: 1rem;
+  border: none;
+  border-radius: 22px;
+  cursor: pointer;
+}
+
+.reset {
+  display: none;
+}
